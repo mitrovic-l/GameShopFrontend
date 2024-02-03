@@ -1,4 +1,4 @@
-# vue-proba
+# GameShopFrontend
 
 ## Project setup
 ```
